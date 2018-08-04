@@ -1,0 +1,8 @@
+prefix=/home/robotics/robotics_ws/devel
+
+Name: robot_mover
+Description: Description of robot_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotics/robotics_ws/devel/lib 
+Requires: 
